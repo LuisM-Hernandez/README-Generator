@@ -1,0 +1,22 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "This is a simple README Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Hernandez",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisM-Hernandez/README-Generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LuisM-Hernandez/README-Generator/issues"
+  },
+  "homepage": "https://github.com/LuisM-Hernandez/README-Generator#readme"
+}
