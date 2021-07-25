@@ -25,6 +25,14 @@ function generateMarkdown(data) {
   ${data.installation}
   ${backticks}
 
+  ## Usage
+  ${data.usage}
+
+  ## Test
+  ${backticks}
+  ${data.test}
+  ${backticks}
+
 
 `;
 }
