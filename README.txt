@@ -1,1 +1,0 @@
-{"github":"nbvr","email":"htbrg","title":"yhgtfr","description":"nyuthbg","license":"None","installation":"npm i","test":"yh","usage":"","contributing":""}
